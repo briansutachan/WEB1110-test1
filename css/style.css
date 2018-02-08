@@ -1,0 +1,33 @@
+.container{
+
+}
+
+
+.box{
+    display: inline-flex;
+    border: solid 1px black;
+    width: 100px;
+    height: 20px;
+}
+
+.second{
+    display: inline-flex;
+    border: solid 1px black;
+    width: 100px;
+    height: 20px;
+}
+
+.firstbox{
+    display: inline-flex;
+    border: solid 1px black;
+    width: 100px;
+    height: 20px;
+}
+
+/* .extrasecondbox{
+    display: inline-flex;
+    border: solid 1px black;
+    width: 100px;
+    height: 20px;
+} */
+
